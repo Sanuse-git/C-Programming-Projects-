@@ -1,0 +1,7 @@
+C:\Users\ASUS VIVOBOOK\source\repos\PRG261 Project Milestone 2\bin\Debug\PRG261 Project Milestone 2.exe.config
+C:\Users\ASUS VIVOBOOK\source\repos\PRG261 Project Milestone 2\bin\Debug\PRG261 Project Milestone 2.exe
+C:\Users\ASUS VIVOBOOK\source\repos\PRG261 Project Milestone 2\bin\Debug\PRG261 Project Milestone 2.pdb
+C:\Users\ASUS VIVOBOOK\source\repos\PRG261 Project Milestone 2\obj\Debug\PRG261 Project Milestone 2.csproj.AssemblyReference.cache
+C:\Users\ASUS VIVOBOOK\source\repos\PRG261 Project Milestone 2\obj\Debug\PRG261 Project Milestone 2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VIVOBOOK\source\repos\PRG261 Project Milestone 2\obj\Debug\PRG261 Project Milestone 2.exe
+C:\Users\ASUS VIVOBOOK\source\repos\PRG261 Project Milestone 2\obj\Debug\PRG261 Project Milestone 2.pdb
